@@ -1,0 +1,28 @@
+{
+  "name": "warden",
+  "version": "0.1.0",
+  "description": "gate watcher?",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Moorarion/Warden.git"
+  },
+  "keywords": [
+    "gate",
+    "keeper"
+  ],
+  "author": "Scorpiour",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.14.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Moorarion/Warden/issues"
+  },
+  "homepage": "https://github.com/Moorarion/Warden#readme",
+  "gypfile": true
+}
